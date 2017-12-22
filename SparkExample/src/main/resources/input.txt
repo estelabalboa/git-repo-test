@@ -1,0 +1,4 @@
+This is a scala test
+we are using scala ide.
+this is word count input file.
+test with scala document oto count words.
